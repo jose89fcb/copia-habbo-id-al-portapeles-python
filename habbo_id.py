@@ -16,4 +16,4 @@ clipboard.copy(id)
 clipboard.paste()
 
 
-print("ID Copiado al portapepeles")
+print("ID Copiado al portapapeles")
